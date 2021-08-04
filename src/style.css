@@ -1,0 +1,23 @@
+.Cards{
+width: 160px;
+background-color: #E4DDED;
+display: inline-block;
+margin-top: 5px;
+margin-bottom: 5px;
+border-radius: 5px;
+height: 145px;
+align-content: center;
+justify-content: center;
+text-align: center;
+}
+
+img {
+    border-radius: 5px;
+    width: 150px;
+    margin-top: 5px;
+}
+
+.nome {
+    font-size: 10px;
+    margin-top: 8px;
+}
